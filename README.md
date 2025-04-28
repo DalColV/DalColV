@@ -18,8 +18,5 @@
 
 ###
 
-<div align="center">
-  <img height="200" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Woman%20Technologist%20Medium%20Skin%20Tone.png"  />
-</div>
 
 ###
